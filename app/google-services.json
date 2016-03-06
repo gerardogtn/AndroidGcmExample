@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "impactful-veld-124121",
+    "project_number": "1046074407320",
+    "name": "Gcm-Test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046074407320:android:7ddf550686371f00",
+        "client_id": "android:gerardogtn.com.gcmtest",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "gerardogtn.com.gcmtest",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
